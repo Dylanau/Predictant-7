@@ -1,0 +1,23 @@
+{
+    "notes": [
+      {
+        "title": "Forecast",
+        "accuracy": "87%",
+        "averageE": "2.1",
+        "id": 1
+      },
+      {
+        "title": "Customer Volume",
+        "accuracy": "92%",
+        "averageE": "3.3",
+        "id": 2
+      },
+      {
+        "title": "Forecast",
+        "accuracy": "71%",
+        "averageE": "1.7",
+        "id": 3
+      }
+    ]
+  }
+  
